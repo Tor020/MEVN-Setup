@@ -1,7 +1,7 @@
 [Unrelated MEVN Stack Article](https://www.djamware.com/post/5a1b779f80aca75eadc12d6e/mongo-express-vue-nodejs-mevn-stack-crud-web-application)
 
 [Video related to this project](https://www.youtube.com/watch?v=Fa4cRMaTDUI)
-# Vue Setup
+# Vue CLI Setup
 
 [scaffolding](https://github.com/vuejs/vue-cli)
 
@@ -14,6 +14,9 @@
 ex:
 
 `$ vue init gr8Templatem8 my-project`
+`cd into the project name`
+`npm install`
+`npm run dev`
 
 ### Available templates 
 
